@@ -1,0 +1,8 @@
+{
+  "name": "com.popspells.dependencypack",
+  "version": "1.0.0",
+  "displayName": "Popspells Dependency Pack",
+  "description": "Holds all the dependencies that would usually be found directly in the Assets/ directory.",
+  "unity": "2020.3",
+  "unityRelease": "1f1"
+}
